@@ -45,6 +45,7 @@ def get_random_color():
 
 
 client = WeChatClient(app_id, app_secret)
+client.message.send_text(user_id, ''content'')
 print(app_id)
 print(app_secret)
 
