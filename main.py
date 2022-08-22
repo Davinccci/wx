@@ -12,10 +12,7 @@ city = os.environ['CITY']
 birthday = os.environ['BIRTHDAY']
 
 app_id = os.environ["APP_ID"]
-app_id = "wxf2935b359cc27eef"
 app_secret = os.environ["APP_SECRET"]
-app_secret = "5ee8a815dec6a97edaf6a1f97525d348"
-
 user_id = os.environ["USER_ID"]
 template_id = os.environ["TEMPLATE_ID"]
 
